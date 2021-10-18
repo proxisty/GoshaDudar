@@ -1,0 +1,4 @@
+manager.py - скрипт, который позвол€ет взаимодействовать с проектом django.
+
+python manage.py runserver - запуск приложени€
+startapp - создание приложени€. ѕосле зоздани€ его необходимо прописать в taskmanage -> settings.py -> INSTALLED_APPS
